@@ -13,3 +13,4 @@ preferencialmente por meio de pull-request. Regras:
 * forneça uma descrição
 * forneça a URL do aplicativo ou visualização, que deve estar funcionando
 * forneça uma imagem de 546x546 pixels
+* forneça a URL do conjunto de dados utilizado pelo aplicativo
