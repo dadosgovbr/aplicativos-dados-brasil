@@ -7,7 +7,12 @@ Este repositório tem o objetivo de gerenciar o conteúdo da página
 ## Contribuições
 
 Sinta-se à vontade para enviar suas próprias sugestões de aplicativos ou visualizações,
-preferencialmente por meio de pull-request. Regras:
+preferencialmente por meio de
+[pull-request](https://help.github.com/articles/using-pull-requests/).
+
+A planilha com as informações sobre os aplicativos está em dados/aplicativos.csv.
+
+Regras:
 
 * forneça um título
 * forneça uma descrição
